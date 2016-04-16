@@ -1,0 +1,6 @@
+{
+  "name": "GitUtils",		
+  "dependencies": {
+    "shelljs": "^0.6.0"
+  }
+}
